@@ -1,0 +1,13 @@
+name = "Refined Storage Fluxified"
+filename = "refstoragefluxified-1.12.2-1.0.0.jar"
+side = "both"
+
+[download]
+hash-format = "sha1"
+hash = "8e97ca33b491bc08a510cb717ebc3270f5485e61"
+mode = "metadata:curseforge"
+
+[update]
+[update.curseforge]
+file-id = 2957763
+project-id = 383669
