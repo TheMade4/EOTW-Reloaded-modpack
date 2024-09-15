@@ -1,12 +1,12 @@
 name = "EOTW Reloaded"
 author = "TheMade4"
-version = "1.0.1"
+version = "1.0.2"
 pack-format = "packwiz:1.1.0"
 
 [index]
 file = "index.toml"
 hash-format = "sha256"
-hash = "9cda08af6720d55cc2fbfdd74efd7ab6a84c63c552406d14999ebb08578f4701"
+hash = "6e914502f126bcbf39ab0c9a8e2179bbbe0e6888aca7730e18c5de393f341cae"
 
 [versions]
 forge = "14.23.5.2860"

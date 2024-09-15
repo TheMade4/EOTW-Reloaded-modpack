@@ -501,7 +501,7 @@ metafile = true
 
 [[files]]
 file = "mods/truetype-font-replacement.pw.toml"
-hash = "30674cea5f3b9be2e72ce0330ae6e88e9a3e087a42562e74fa44ef1c1baadc27"
+hash = "8eddd01aed2f9df37e251a1be888b016d15dec2a08d15f9d6a6fb16075762f4c"
 metafile = true
 
 [[files]]
