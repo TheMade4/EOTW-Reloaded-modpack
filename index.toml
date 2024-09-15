@@ -1,6 +1,10 @@
 hash-format = "sha256"
 
 [[files]]
+file = "mods/SRParasites-1.12.2v1.9.21.jar"
+hash = "f803ab3882bc8047858a23e2376aaa8fb87d7e54a324b9183b4a033ee076ddea"
+
+[[files]]
 file = "mods/advanced-machines-patcher.pw.toml"
 hash = "85f053c83dc9c6b2ec787bbf9840331886853efa27306e4ab79dd63177a0e160"
 metafile = true
@@ -408,11 +412,6 @@ metafile = true
 [[files]]
 file = "mods/rs-requestify.pw.toml"
 hash = "295210450343d7fc221d07e5347517e3d0ef6a48df1a63ee402cc39a9110d4a2"
-metafile = true
-
-[[files]]
-file = "mods/scape-and-run-parasites.pw.toml"
-hash = "00f34ddde48f0fe788807b4588418faf2431e6d31d51573aedd359719533890b"
 metafile = true
 
 [[files]]
