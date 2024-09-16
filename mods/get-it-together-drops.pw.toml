@@ -1,6 +1,6 @@
 name = "Get It Together, Drops!"
 filename = "getittogetherdrops-1.12.2-v1.0.2.jar"
-side = "both"
+side = "server"
 
 [download]
 hash-format = "sha1"
