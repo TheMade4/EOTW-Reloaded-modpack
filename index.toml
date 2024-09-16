@@ -31,7 +31,7 @@ metafile = true
 
 [[files]]
 file = "mods/alfheim-lighting-engine.pw.toml"
-hash = "38b628f90818b2e90a98f718b8841f02ae98516a56f821321857187a602e311f"
+hash = "f18839f3a3e9d7c3a7c1b274dac00ee527d459414458243021a8334c59ca28a8"
 metafile = true
 
 [[files]]
@@ -57,11 +57,6 @@ metafile = true
 [[files]]
 file = "mods/carry-on.pw.toml"
 hash = "9efd22acd1fb9176b1511196a3c7ac792f63eea1619d5d9f0d57d000c38742ee"
-metafile = true
-
-[[files]]
-file = "mods/cc-tweaked.pw.toml"
-hash = "46dcc28562b736d102a6c71bfcefa4ea146b132f3effef5536c5e0e995a71496"
 metafile = true
 
 [[files]]
@@ -91,7 +86,7 @@ metafile = true
 
 [[files]]
 file = "mods/controlling.pw.toml"
-hash = "ac423dbdf07ee4c91d05fdebfd3e0849ae9602925a39cac3dac0a35fd742c290"
+hash = "252e337cc66d7a8f1d2ec3e51f72be6b4198ecf8781cda6a1cbf8c4cffd93f58"
 metafile = true
 
 [[files]]
@@ -191,7 +186,7 @@ metafile = true
 
 [[files]]
 file = "mods/ftb-backups-forge.pw.toml"
-hash = "6aab174b12e2335e589aae9136ef5aecdfd1805b5930830d9ce378ae41abd9e3"
+hash = "a60fd9d05d44ba3cd00a174dfb886a1088a39952d35181675c60cae584784880"
 metafile = true
 
 [[files]]
@@ -201,7 +196,7 @@ metafile = true
 
 [[files]]
 file = "mods/get-it-together-drops.pw.toml"
-hash = "a22c2f05309b2da313209a3ec2e55d85317e8ba9a34eb306d40c36a242d4d6fc"
+hash = "7996684d788face064b7f79364e3116389a3661aedb72628599a20c5cb772bdd"
 metafile = true
 
 [[files]]
@@ -266,7 +261,7 @@ metafile = true
 
 [[files]]
 file = "mods/let-me-despawn.pw.toml"
-hash = "59ef126579f6c818d025771565c18c54fd21999dddad08c31637b3c456b580c7"
+hash = "afb823489c32be90999be480e2aff43b66937d032ad7dfc54e6b457847bd4243"
 metafile = true
 
 [[files]]
@@ -306,7 +301,7 @@ metafile = true
 
 [[files]]
 file = "mods/mod-name-tooltip.pw.toml"
-hash = "33797f106d7f44073865b9c54e8f62c50162e9415bc66b4dd9305d947527f39e"
+hash = "3734d70704626c28a955744664944226e5d31b397b54967a12e0013cedaf6762"
 metafile = true
 
 [[files]]
@@ -316,7 +311,7 @@ metafile = true
 
 [[files]]
 file = "mods/mouse-tweaks.pw.toml"
-hash = "30746e92b44351d3365fa5aa6e43b623476c91116fb8b9f88b7233339d3c9f43"
+hash = "5eaab34dbc85c388430ed180eaf33ee94ea1699aac60d785a2fb79a832f74750"
 metafile = true
 
 [[files]]
@@ -331,7 +326,7 @@ metafile = true
 
 [[files]]
 file = "mods/netherportalfix.pw.toml"
-hash = "5ce43c4f9f7b58f48e7d6c469d6ade03870abd6776abac2e98c8b9e2fbc45ef2"
+hash = "99e3aef9cdb0bd8189da4cab3955c300f824238edd1a85471ed45208fdb4a8b0"
 metafile = true
 
 [[files]]
@@ -470,11 +465,6 @@ hash = "a59ce34f44040f07fdd4cd7df09113ef13790166abe529ab5556322da7bd6363"
 metafile = true
 
 [[files]]
-file = "mods/the-spice-of-life.pw.toml"
-hash = "aae7752ff23773d2dd0a2720d6dc4c97abac4a9560bd2f75b879407d4847231f"
-metafile = true
-
-[[files]]
 file = "mods/tinkers-complement.pw.toml"
 hash = "d2ea631f738d6cd7423210f2d34c4157149d358a15b763f054f53c25cfb91284"
 metafile = true
@@ -510,12 +500,12 @@ hash = "0e5464c2abffc2a3a0f9e504064cfad34a1eb9658da14d1f415d061cd2f6e200"
 
 [[files]]
 file = "mods/xaeros-minimap.pw.toml"
-hash = "92f8bff482d415a765df0f99ae9b6fa823743d159cf63f092bc8dbb88e9f47d2"
+hash = "45ac0cce86253bf64af496ae1a9de6ff860a49bf7835f84999cbd70dee2a6a1c"
 metafile = true
 
 [[files]]
 file = "mods/xaeros-world-map.pw.toml"
-hash = "57af9a394d0316151878bd27d506aafbb95749db5d4a8f770dbfde9a3e223623"
+hash = "31f4926fbce7427a59563aaf0ed23f7f9ea0a7d2641c0ce5a73218d68fd2def6"
 metafile = true
 
 [[files]]
